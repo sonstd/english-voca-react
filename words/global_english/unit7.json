@@ -1,0 +1,386 @@
+[
+  {
+    "eng": "vegetable",
+    "kor": "채소"
+  },
+  {
+    "eng": "lettuce",
+    "kor": "양상추"
+  },
+  {
+    "eng": "cabbage",
+    "kor": "양배추"
+  },
+  {
+    "eng": "onion",
+    "kor": "양파"
+  },
+  {
+    "eng": "mushroom",
+    "kor": "버섯"
+  },
+  {
+    "eng": "carrot",
+    "kor": "당근"
+  },
+  {
+    "eng": "pea",
+    "kor": "완두콩"
+  },
+  {
+    "eng": "broccoli",
+    "kor": "브로콜리"
+  },
+  {
+    "eng": "cauliflower",
+    "kor": "콜리플라워"
+  },
+  {
+    "eng": "cucumber",
+    "kor": "오이"
+  },
+  {
+    "eng": "bell pepper",
+    "kor": "피망"
+  },
+  {
+    "eng": "chili pepper",
+    "kor": "고추"
+  },
+  {
+    "eng": "pumpkin",
+    "kor": "호박"
+  },
+  {
+    "eng": "asparagus",
+    "kor": "아스파라거스"
+  },
+  {
+    "eng": "spinach",
+    "kor": "시금치"
+  },
+  {
+    "eng": "celery",
+    "kor": "샐러리"
+  },
+  {
+    "eng": "parsley",
+    "kor": "파슬리"
+  },
+  {
+    "eng": "garlic",
+    "kor": "마늘"
+  },
+  {
+    "eng": "eggplant",
+    "kor": "가지"
+  },
+  {
+    "eng": "zucchini",
+    "kor": "애호박"
+  },
+  {
+    "eng": "chive",
+    "kor": "부추"
+  },
+  {
+    "eng": "green onion",
+    "kor": "파"
+  },
+  {
+    "eng": "bean sprouts",
+    "kor": "콩나물"
+  },
+  {
+    "eng": "napa cabbage",
+    "kor": "배추"
+  },
+  {
+    "eng": "perilla leaf",
+    "kor": "깻잎"
+  },
+  {
+    "eng": "sweet potato",
+    "kor": "고구마"
+  },
+  {
+    "eng": "daikon radish",
+    "kor": "무"
+  },
+  {
+    "eng": "red radish",
+    "kor": "래디쉬"
+  },
+  {
+    "eng": "ginseng",
+    "kor": "인삼"
+  },
+  {
+    "eng": "corn",
+    "kor": "옥수수"
+  },
+  {
+    "eng": "seafood",
+    "kor": "해산물"
+  },
+  {
+    "eng": "clam",
+    "kor": "조개 (이매패류)"
+  },
+  {
+    "eng": "lobster",
+    "kor": "바닷가재"
+  },
+  {
+    "eng": "oyster",
+    "kor": "굴"
+  },
+  {
+    "eng": "roe",
+    "kor": "생선알"
+  },
+  {
+    "eng": "shellfish",
+    "kor": "조개류, 갑각류"
+  },
+  {
+    "eng": "shrimp",
+    "kor": "새우"
+  },
+  {
+    "eng": "squid",
+    "kor": "오징어"
+  },
+  {
+    "eng": "octopus",
+    "kor": "문어"
+  },
+  {
+    "eng": "fish",
+    "kor": "생선"
+  },
+  {
+    "eng": "tuna",
+    "kor": "참치"
+  },
+  {
+    "eng": "salmon",
+    "kor": "연어"
+  },
+  {
+    "eng": "cod",
+    "kor": "대구"
+  },
+  {
+    "eng": "halibut",
+    "kor": "넙치"
+  },
+  {
+    "eng": "mackerel",
+    "kor": "고등어"
+  },
+  {
+    "eng": "sea cucumber",
+    "kor": "해삼"
+  },
+  {
+    "eng": "sea mustard",
+    "kor": "미역"
+  },
+  {
+    "eng": "sea laver",
+    "kor": "김"
+  },
+  {
+    "eng": "kelp",
+    "kor": "다시마"
+  },
+  {
+    "eng": "avalone",
+    "kor": "전복"
+  },
+  {
+    "eng": "meat",
+    "kor": "고기"
+  },
+  {
+    "eng": "beef",
+    "kor": "소고기"
+  },
+  {
+    "eng": "burger",
+    "kor": "버거"
+  },
+  {
+    "eng": "lamb",
+    "kor": "(어린) 양고기"
+  },
+  {
+    "eng": "mutton",
+    "kor": "(나이든) 양고기"
+  },
+  {
+    "eng": "ham",
+    "kor": "햄"
+  },
+  {
+    "eng": "pork",
+    "kor": "돼지고기"
+  },
+  {
+    "eng": "steak",
+    "kor": "스테이크"
+  },
+  {
+    "eng": "poultry",
+    "kor": "가금류"
+  },
+  {
+    "eng": "veal",
+    "kor": "송아지 고기"
+  },
+  {
+    "eng": "chicken",
+    "kor": "치킨"
+  },
+  {
+    "eng": "turkey",
+    "kor": "칠면조"
+  },
+  {
+    "eng": "duck",
+    "kor": "오리"
+  },
+  {
+    "eng": "goose",
+    "kor": "거위"
+  },
+  {
+    "eng": "pheasant",
+    "kor": "꿩"
+  },
+  {
+    "eng": "fruit",
+    "kor": "열매, 과일"
+  },
+  {
+    "eng": "apple",
+    "kor": "사과"
+  },
+  {
+    "eng": "apricot",
+    "kor": "살구"
+  },
+  {
+    "eng": "avocado",
+    "kor": "아보카도"
+  },
+  {
+    "eng": "banana",
+    "kor": "바나나"
+  },
+  {
+    "eng": "blueberry",
+    "kor": "블루베리"
+  },
+  {
+    "eng": "cherry",
+    "kor": "체리"
+  },
+  {
+    "eng": "chestnut",
+    "kor": "밤"
+  },
+  {
+    "eng": "coconut",
+    "kor": "코코넛"
+  },
+  {
+    "eng": "fig",
+    "kor": "무화과"
+  },
+  {
+    "eng": "ginkgo nut",
+    "kor": "은행"
+  },
+  {
+    "eng": "grapefruit",
+    "kor": "자몽"
+  },
+  {
+    "eng": "grape",
+    "kor": "포도"
+  },
+  {
+    "eng": "jujube",
+    "kor": "대추"
+  },
+  {
+    "eng": "kiwi",
+    "kor": "키위"
+  },
+  {
+    "eng": "lemon",
+    "kor": "레몬"
+  },
+  {
+    "eng": "lychee",
+    "kor": "리치"
+  },
+  {
+    "eng": "mandarin orange",
+    "kor": "밀감"
+  },
+  {
+    "eng": "mango",
+    "kor": "망고"
+  },
+  {
+    "eng": "orange",
+    "kor": "오렌지"
+  },
+  {
+    "eng": "Korean melon",
+    "kor": "참외"
+  },
+  {
+    "eng": "papaya",
+    "kor": "파파야"
+  },
+  {
+    "eng": "peach",
+    "kor": "복숭아"
+  },
+  {
+    "eng": "pear",
+    "kor": "배"
+  },
+  {
+    "eng": "persimmon",
+    "kor": "감"
+  },
+  {
+    "eng": "pineapple",
+    "kor": "파인애플"
+  },
+  {
+    "eng": "prune",
+    "kor": "푸룬"
+  },
+  {
+    "eng": "raspberry",
+    "kor": "라즈베리"
+  },
+  {
+    "eng": "strawberry",
+    "kor": "딸기"
+  },
+  {
+    "eng": "tomato",
+    "kor": "토마토"
+  },
+  {
+    "eng": "watermelon",
+    "kor": "수박"
+  }
+]

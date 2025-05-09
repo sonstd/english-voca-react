@@ -1,0 +1,254 @@
+[
+  {
+    "eng": "order",
+    "kor": "주문(품), 순서, 주문하다"
+  },
+  {
+    "eng": "product",
+    "kor": "제품"
+  },
+  {
+    "eng": "produce",
+    "kor": "생산하다, 만들다, 농산물"
+  },
+  {
+    "eng": "business",
+    "kor": "사업, 비지니스, 사업체"
+  },
+  {
+    "eng": "market",
+    "kor": "시장, (상품을) 시장에 내놓다, 마케팅하다다"
+  },
+  {
+    "eng": "service",
+    "kor": "서비스, 봉사, 수리하다"
+  },
+  {
+    "eng": "serve",
+    "kor": "근무하다, 서빙하다, (군에) 복무하다, (징역을) 살다다"
+  },
+  {
+    "eng": "employ",
+    "kor": "고용하다, 채용하다, (방법을) 채택하다"
+  },
+  {
+    "eng": "employee",
+    "kor": "직원, 종업원"
+  },
+  {
+    "eng": "store",
+    "kor": "상점, 보관하다, 저장하다"
+  },
+  {
+    "eng": "storage",
+    "kor": "보관, 저장"
+  },
+  {
+    "eng": "date",
+    "kor": "날짜"
+  },
+  {
+    "eng": "update",
+    "kor": "최신 정보, (컴퓨터) 업데이트, 갱신하다, 업데이트하다"
+  },
+  {
+    "eng": "outdated",
+    "kor": "구식의, 시대에 뒤쳐진"
+  },
+  {
+    "eng": "schedule",
+    "kor": "일정, 스케줄, 일정을 잡다"
+  },
+  {
+    "eng": "customer",
+    "kor": "고객"
+  },
+  {
+    "eng": "custom",
+    "kor": "맞춤의"
+  },
+  {
+    "eng": "customize",
+    "kor": "주문 제작하다, 커스터마이징하다"
+  },
+  {
+    "eng": "offer",
+    "kor": "제안, 제의, 제공하다, 제안하다"
+  },
+  {
+    "eng": "information",
+    "kor": "정보"
+  },
+  {
+    "eng": "inform",
+    "kor": "알리다, 통지하다"
+  },
+  {
+    "eng": "informative",
+    "kor": "유익한"
+  },
+  {
+    "eng": "manager",
+    "kor": "관리자, 매니저"
+  },
+  {
+    "eng": "manage",
+    "kor": "관리하다, 경영하다, 가까스로 ~하다, (문제 등을) 처리히다, (사람을) 다루다"
+  },
+  {
+    "eng": "available",
+    "kor": "이용 가능한, 유효한, ~ 할 시간이 있는, (물품 등을) 구할 수 있는"
+  },
+  {
+    "eng": "availability",
+    "kor": "가용성, 유효성, ~ 할 시간이 있는지 여부, (물품 등을) 구할 수 있는지 여부"
+  },
+  {
+    "eng": "location",
+    "kor": "위치, 장소"
+  },
+  {
+    "eng": "locate",
+    "kor": "위치시키다, (위치를) 찾아내다"
+  },
+  {
+    "eng": "relocate",
+    "kor": "이전하다, 옮기다"
+  },
+  {
+    "eng": "site",
+    "kor": "부지, 현장, (인터넷) 사이트"
+  },
+  {
+    "eng": "job",
+    "kor": "직업, 일자리"
+  },
+  {
+    "eng": "staff",
+    "kor": "직원(들), 직원을 배치하다, 인력을 투입하다"
+  },
+  {
+    "eng": "understaffed",
+    "kor": "일손이 부족한"
+  },
+  {
+    "eng": "sale",
+    "kor": "판매, 할인 판매, 매출(-s)"
+  },
+  {
+    "eng": "wholesale",
+    "kor": "도매"
+  },
+  {
+    "eng": "conference",
+    "kor": "회의,협의,학회"
+  },
+  {
+    "eng": "last",
+    "kor": "지난, 마지막의, 지속되다"
+  },
+  {
+    "eng": "item",
+    "kor": "물품, 품목, 항목, 아이템"
+  },
+  {
+    "eng": "client",
+    "kor": "고객, 의뢰인, 클라이언트"
+  },
+  {
+    "eng": "contact",
+    "kor": "연락, 연락처, 인맥, 연줄, 연락하다"
+  },
+  {
+    "eng": "apply",
+    "kor": "지원하다, 신청하다, 적용하다, (약, 화장품 등의 액체를 피부에) 바르다"
+  },
+  {
+    "eng": "application",
+    "kor": "지원, 신청, 지원서, 신청서, (모바일) 응용 프로그램"
+  },
+  {
+    "eng": "appliance",
+    "kor": "가전제품"
+  },
+  {
+    "eng": "project",
+    "kor": "프로젝트, 과제, 예상하다"
+  },
+  {
+    "eng": "projection",
+    "kor": "전망"
+  },
+  {
+    "eng": "place",
+    "kor": "곳, 장소, 놓다, 두다, (광고 등을) 게재하다, (주문 등을)하다"
+  },
+  {
+    "eng": "misplace",
+    "kor": "잘못된 장소에 두다"
+  },
+  {
+    "eng": "show",
+    "kor": "전시회, 박람회, 쇼 (방송 프로그램), 표시, 보여주다, 안내하다"
+  },
+  {
+    "eng": "showcase",
+    "kor": "진열장, (제품, 기술 등의) 공개 행사, 선보이다"
+  },
+  {
+    "eng": "attend",
+    "kor": "참가하다, 참석하다"
+  },
+  {
+    "eng": "attendant",
+    "kor": "(서비스나 편의를 제공하는) 직원"
+  },
+  {
+    "eng": "attendance",
+    "kor": "출석"
+  },
+  {
+    "eng": "attention",
+    "kor": "주의, 주목, 관심"
+  },
+  {
+    "eng": "area",
+    "kor": "지역, 구역"
+  },
+  {
+    "eng": "suggest",
+    "kor": "제안하다"
+  },
+  {
+    "eng": "advertise",
+    "kor": "광고하다"
+  },
+  {
+    "eng": "advertisement",
+    "kor": "광고"
+  },
+  {
+    "eng": "recent",
+    "kor": "최근의"
+  },
+  {
+    "eng": "recently",
+    "kor": "최근에"
+  },
+  {
+    "eng": "request",
+    "kor": "요청, 요청하다"
+  },
+  {
+    "eng": "include",
+    "kor": "포함하다"
+  },
+  {
+    "eng": "exclude",
+    "kor": "제외하다"
+  },
+  {
+    "eng": "exclusive",
+    "kor": "독점적인, 배타적인"
+  }
+]
