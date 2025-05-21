@@ -1,0 +1,226 @@
+[
+  {
+    "eng": "airport",
+    "kor": "공항"
+  },
+  {
+    "eng": "bakery",
+    "kor": "빵집"
+  },
+  {
+    "eng": "basketball court",
+    "kor": "농구장"
+  },
+  {
+    "eng": "church",
+    "kor": "교회"
+  },
+  {
+    "eng": "coffee shop",
+    "kor": "커피숍"
+  },
+  {
+    "eng": "pharmacy, drugstore",
+    "kor": "약국"
+  },
+  {
+    "eng": "grocery store",
+    "kor": "식료품점"
+  },
+  {
+    "eng": "parking lot, car park",
+    "kor": "주차장"
+  },
+  {
+    "eng": "fire station",
+    "kor": "소방서"
+  },
+  {
+    "eng": "nightclub",
+    "kor": "나이트클럽"
+  },
+  {
+    "eng": "museum",
+    "kor": "박물관"
+  },
+  {
+    "eng": "gas station, petrol station",
+    "kor": "주유소"
+  },
+  {
+    "eng": "supermarket",
+    "kor": "슈퍼마켓"
+  },
+  {
+    "eng": "gym",
+    "kor": "체육관"
+  },
+  {
+    "eng": "hotel",
+    "kor": "호텔"
+  },
+  {
+    "eng": "library",
+    "kor": "도서관"
+  },
+  {
+    "eng": "shopping center",
+    "kor": "쇼핑센터"
+  },
+  {
+    "eng": "movie theater, cinema",
+    "kor": "영화관"
+  },
+  {
+    "eng": "beach",
+    "kor": "해변"
+  },
+  {
+    "eng": "post office",
+    "kor": "우체국"
+  },
+  {
+    "eng": "beauty salon, hair salon",
+    "kor": "미용실"
+  },
+  {
+    "eng": "skateboard park",
+    "kor": "스케이트보드파크"
+  },
+  {
+    "eng": "store",
+    "kor": "가게"
+  },
+  {
+    "eng": "stadium",
+    "kor": "경기장"
+  },
+  {
+    "eng": "tennis court",
+    "kor": "테니스장"
+  },
+  {
+    "eng": "theater",
+    "kor": "극장"
+  },
+  {
+    "eng": "bus terminal",
+    "kor": "버스 터미널"
+  },
+  {
+    "eng": "town",
+    "kor": "도시"
+  },
+  {
+    "eng": "train station",
+    "kor": "기차역"
+  },
+  {
+    "eng": "zoo",
+    "kor": "동물원"
+  },
+  {
+    "eng": "police station",
+    "kor": "경찰서"
+  },
+  {
+    "eng": "newspaper kiosk, newsstand",
+    "kor": "신문 판매점"
+  },
+  {
+    "eng": "swimming pool",
+    "kor": "수영장"
+  },
+  {
+    "eng": "city hall, town hall",
+    "kor": "시청"
+  },
+  {
+    "eng": "taxi stand",
+    "kor": "택시 승차장"
+  },
+  {
+    "eng": "convenience store",
+    "kor": "편의점"
+  },
+  {
+    "eng": "karaoke bar",
+    "kor": "노래방"
+  },
+  {
+    "eng": "internet cafe",
+    "kor": "인터넷 카페, pc방"
+  },
+  {
+    "eng": "stationery store",
+    "kor": "문구점"
+  },
+  {
+    "eng": "Korean bathhouse",
+    "kor": "찜질방"
+  },
+  {
+    "eng": "in",
+    "kor": "~에, ~안에"
+  },
+  {
+    "eng": "on",
+    "kor": "~위에"
+  },
+  {
+    "eng": "next to",
+    "kor": "~옆에"
+  },
+  {
+    "eng": "across from",
+    "kor": "~의 맞은편에"
+  },
+  {
+    "eng": "between",
+    "kor": "~사이에"
+  },
+  {
+    "eng": "on the corner of",
+    "kor": "~의 모퉁이에"
+  },
+  {
+    "eng": "go straight",
+    "kor": "직진"
+  },
+  {
+    "eng": "go up",
+    "kor": "위로 직진"
+  },
+  {
+    "eng": "go down",
+    "kor": "아래로 직진"
+  },
+  {
+    "eng": "on the left",
+    "kor": "왼쪽에"
+  },
+  {
+    "eng": "on the right",
+    "kor": "오른쪽에"
+  },
+  {
+    "eng": "take a left, turn left",
+    "kor": "좌회전"
+  },
+  {
+    "eng": "take a right, turn right",
+    "kor": "우회전"
+  },
+  {
+    "eng": "walk straight",
+    "kor": "걸어서 직진"
+  },
+  {
+    "eng": "walk up",
+    "kor": "위로 걸어서 직진"
+  },
+  {
+    "eng": "walk down",
+    "kor": "아래로 걸어서 직진"
+  }
+]
